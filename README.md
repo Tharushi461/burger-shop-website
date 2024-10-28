@@ -1,6 +1,6 @@
 # burger-shop-website
 Burger Mine 🍔
-Burger Mine is a responsive, visually engaging website for a burger shop, built using HTML, CSS, and Bootstrap. This project is designed to deliver a seamless and enjoyable user experience, allowing customers to easily browse the menu, place orders, book tables, and access other features directly on the site.
+Burger Mine is a responsive, visually engaging website for a burger shop, built using HTML, js, CSS, and Bootstrap. This project is designed to deliver a seamless and enjoyable user experience, allowing customers to easily browse the menu, place orders, book tables, and access other features directly on the site.
 
 Key Features:
 Home Page: Introduces Burger Mine’s theme, mission, and highlights popular menu items to engage visitors right from the start.
